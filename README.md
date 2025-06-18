@@ -63,7 +63,6 @@ Based on your comprehensive Audition Practice App documentation, here's a resume
 * Features on-device Picovoice speech processing, 80% fuzzy matching for natural speech validation, and < 500ms response times for seamless dialogue flow.
 * Implementing freemium SaaS model with cross-platform React Native/Expo development, targeting $50K MRR within 6 months of launch.
 * Personal R&D investment in AI APIs (Gemini Pro/Live, Picovoice) and development tools for voice synthesis optimization.
-* Actively exploring real-time speech-to-dialogue pipelines and multi-character voice assignment systems for theatrical applications.
 
 **AI-Powered Sales Training Platform (Personal Project)**
 *   Currently developing an innovative AI sales training platform for real-time, voice-to-voice interaction with dynamic customer profiles.
