@@ -55,11 +55,21 @@ Various | 06/2000 - 02/2011 | Various
 
 ## PROJECTS
 
+Based on your comprehensive Audition Practice App documentation, here's a resume section in the same style:
+
+**AI-Powered Audition Practice App (Personal Project)**
+* Developing a revolutionary AI scene partner platform enabling actors to practice auditions with responsive, real-time voice dialogue 24/7.
+* Architecture combines Gemini 2.5 Pro for intelligent script analysis with Gemini Live API for dynamic voice synthesis, targeting 2.1M global actor market.
+* Features on-device Picovoice speech processing, 80% fuzzy matching for natural speech validation, and < 500ms response times for seamless dialogue flow.
+* Implementing freemium SaaS model with cross-platform React Native/Expo development, targeting $50K MRR within 6 months of launch.
+* Personal R&D investment in AI APIs (Gemini Pro/Live, Picovoice) and development tools for voice synthesis optimization.
+* Actively exploring real-time speech-to-dialogue pipelines and multi-character voice assignment systems for theatrical applications.
+
 **AI-Powered Sales Training Platform (Personal Project)**
 *   Currently developing an innovative AI sales training platform for real-time, voice-to-voice interaction with dynamic customer profiles.
 *   Architecture features trainable "customer" personas (leveraging sales transcripts, competitor data, battle cards) with adjustable moods and knowledge levels.
 *   Requires a highly optimized pipeline from frontend to APIs, heavily augmented by AI, RAG, and MCPs.
-*   Personal R&D investment of $300-$500/month in LLM APIs (Gemini, Claude) and GitHub CoPilot for development and LLM understanding.
+*   Personal R&D investment in LLM APIs (Gemini, Claude) and GitHub CoPilot for development and LLM understanding.
 *   Actively exploring multi-tiered memory systems for LLMs, modeled on human memory retention.
 
 **Kanban Board Demonstration App**
