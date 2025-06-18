@@ -1,4 +1,4 @@
-f# BRANDON MEYER
+BRANDON MEYER
 Software Engineer | AI Solutions | Infrastructure | Systems Architecture
 
 github.com/bmeyer99 | Tampa, FL
