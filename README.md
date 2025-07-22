@@ -9,12 +9,12 @@ Technology professional with 20+ years of experience spanning customer operation
 
 ## EXPERIENCE
 
-**Prisma Cloud Solutions Architect**  
+**Cortex Cloud Solutions Architect**  
 Palo Alto Networks | 01/2024 - Present | Remote
-- Lead customer adoption of AI-Security Posture Management (AI-SPM) and DSPM offerings within Prisma Cloud since product launch
-- Advise enterprise clients on securing rapid AI deployments against internal and external threats
-- Manage Cortex Cloud solutions including integrated AI-SPM capabilities
-- Integrate security across software development lifecycle using developer tools (Hashicorp, Docker, AWS, Azure, GCP, GitHub, Jenkins, VSCode)
+- Drive enterprise adoption of Cortex Cloud, the unified code-to-cloud-to-SOC platform combining CNAPP and CDR capabilities for real-time cloud security
+- Advise customers on comprehensive cloud protection spanning application security, cloud posture management, runtime security, and infrastructure protection
+- Lead implementation of Cloud Native Application Protection Platform (CNAPP) including CSPM, CIEM, DSPM, and vulnerability management across multicloud environments
+- Collaborate with DevOps teams to integrate security across development lifecycle and cloud infrastructure using CI/CD tools and cloud platforms (AWS, Azure, GCP)
 
 **Senior Sales Engineer**  
 HUMAN (formerly PerimeterX) | 09/2020 - 01/2024 | Remote
@@ -65,6 +65,11 @@ Various Organizations | 06/2000 - 02/2011 | Various Locations
 - Architecture includes trainable personas using sales transcripts, competitor data, and battle cards
 - Implementing optimized pipeline with AI, RAG, and MCPs integration
 - Exploring multi-tiered memory systems for LLM applications
+
+**Startup Technical Advisory** *(Consulting)*
+- Provide technical guidance and application architecture consulting to early-stage entrepreneurs
+- Advise on technology stack selection, infrastructure planning, and scalable development approaches
+- Support founders in building MVP applications and preparing for investor presentations
 
 **Enterprise Application Stack Demo**
 - Created Kanban board application demonstrating React, Flask, MongoDB with AWS S3 and Cognito integration
